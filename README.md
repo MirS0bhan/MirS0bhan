@@ -1,9 +1,3 @@
-# Welcome to My GitHub! 👋
-
-Hi there! I'm Sobhan, a programmer and open-source enthusiast from Iran. I'm passionate about contributing to the community and building solutions that make life easier.
-
-## 🌍 About Me
-
 - **Persian Guy** 🇮🇷
 - **Wikipedian**: I love adding to the wealth of knowledge on Wikipedia.
 - **Programmer**: Coding is my tool for problem-solving and creating new things.
@@ -13,22 +7,12 @@ Hi there! I'm Sobhan, a programmer and open-source enthusiast from Iran. I'm pas
 ## 🛠️ Skills and Technologies
 
 - **Languages**: Primarily Python
-- **Web Frameworks**: Django, Flask
-- **Tools**: Git, Docker, Linux, MongoDB, and more
+- **Tools**: Git, Docker
 
 ## 🚀 Projects
 
 ### Sanad
 Sanad is a handy DNS changer tool for Gnome. It makes switching DNS settings within the Gnome desktop environment a breeze. I created it to provide a straightforward and efficient way to manage DNS configurations, which can help improve both security and browsing speed.
-
-#### Features
-- Quick DNS switching
-- Seamless integration with Gnome Shell
-- User-friendly interface
-
-#### Technologies Used
-- **Language**: JavaScript
-- **License**: GNU General Public License v3.0
 
 Check out the project on [GitHub](https://github.com/MirS0bhan/sanad) and the [Gnome Extensions page](https://extensions.gnome.org/extension/7861/sanad/).
 
