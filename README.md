@@ -1,4 +1,4 @@
-Just a persian guy that belive in libre planet and love free software. a wikipedia. 
+Just a persian guy that belive in libre planet and love free software. a wikipedian. 
 
 ## 📫 How to Reach Me
 
